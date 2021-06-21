@@ -44,8 +44,4 @@ stats.ttest_ind(High_prem_client_ret ,Low_prem_client_ret)
 
 
 
-main_data.groupby('Client Level 1 (Segment)')['Retention_Hyp1'].mean()
 
-main_data['UW Year'][-1:]
-
-main_data.columns
